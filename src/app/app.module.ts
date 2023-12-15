@@ -23,7 +23,7 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
   declarations: [
     AppComponent,
     TopBarComponent,
-    ProductListComponent,
+    ProductListComponent
   ],
   bootstrap: [
     AppComponent
